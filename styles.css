@@ -1,0 +1,26 @@
+
+body {
+    background-color: #005792;
+    text-align: center;
+    color: #d9faff;
+}
+
+h1 {
+    margin: 100px 15px 30px 15px;
+    border: none;
+}
+
+h3 {
+    margin-top: 40px;
+}
+
+.container {
+    align-content: center;
+    margin: 15px 45%;
+}
+
+.dog {
+    width: 220px;
+    height: auto;
+}
+
