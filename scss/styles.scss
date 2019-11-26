@@ -1,0 +1,28 @@
+$color: #005792;
+$textColor: #d9faff;
+
+body {
+    background: $color;
+    color: $textColor;
+    height: 100vh;
+    text-align: center;
+}
+
+h2 {
+    margin: 100px 15px 30px 15px;
+    border: none;
+}
+
+h3 {
+    margin-top: 40px;
+}
+
+.container {
+    align-items: center;
+    margin: 15px 45%;
+}
+
+.dog {
+    width: 220px;
+    height: auto;
+}
